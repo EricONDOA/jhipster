@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "jHipster",
+    "packageName": "com.ondscompany.com",
+    "packageFolder": "com/ondscompany/com",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "eea3b3f1426b85318dc71f95cc2687f7b264d7c8"
+  }
+}
